@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{B0A7DDE0-71E6-4A3E-83B5-A159DD8E84C2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FluidMathTests/P2G2Test.cs">
+    <Files>
+      <File FileName="FluidMath/Program.cs" Line="114" Column="1" />
+      <File FileName="FluidMathTests/P2G1Test.cs" Line="8" Column="22" />
+      <File FileName="FluidMathTests/P2G2Test.cs" Line="22" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FluidMath" expanded="True">
+            <Node name="FluidMath" expanded="True" />
+            <Node name="FluidMathTests" expanded="True">
+              <Node name="P2G2Test.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="FluidMath" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FluidMath PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
